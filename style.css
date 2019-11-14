@@ -8,6 +8,7 @@
 span{
   display: inline;
   text-transform: capitalize;
+  float: left;
 }
 .container{
   height: 100vh;
@@ -15,6 +16,8 @@ span{
   display: flex;
 }
 p{
+  height: 50px;
   margin: auto;
-  display: inline-table;
+  display:inline-block;
+  background-color: #5ed8d2;
 }
